@@ -8,8 +8,8 @@ body {
 
 h1 {
 	text-align: center;
-	font-color: #FC4A1A ;
-	font-size: 40px ;
+	color: #FC3F00 ;
+	font-size: 60px ;
 }
 
 button {
@@ -18,10 +18,18 @@ button {
 	border-radius: 3px;
 }
 
-form {
+input {
 	border-radius: 3px ;
+	text-align: center;
+	background-color: #4ABDAC;
+	color :#DFDCE3;
+	font-style: bold;
 }
 
 h2 {
-	font-color: #DFDCE3;
+	color: #DFDCE3;
+
+
+ p s{
+	font-size: 20px;
 }
