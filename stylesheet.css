@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+	position:relative;
+	margin: 1px 2px;
+	background-color: #4Abdac;
+}
+
+
+h1 {
+	text-align: center;
+	font-color: #FC4A1A ;
+	font-size: 40px ;
+}
+
+button {
+	background-color: #F7B733;
+	margin: 10px 30px ;
+	border-radius: 3px;
+}
+
+form {
+	border-radius: 3px ;
+}
+
+h2 {
+	font-color: #DFDCE3;
+}
