@@ -6,7 +6,7 @@ changeProblemOne.addEventListener('click', function()  {
 
 	var input =  document.getElementById('valueMult').value ;
     var sum = 0;
-		for (var i = 1; i < input ; i++) {
+		for (var i = 1; i < input-1 ; i++) {
 			if (i % 3 === 0 || i % 5 === 0)   {
 				sum += i;
 			}
